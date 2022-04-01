@@ -1,0 +1,64 @@
+#titulo{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-stretch: semi-condensed;
+}
+#myname{
+    color:rgb(4, 32, 122);
+    text-decoration-line: underline;
+    font-weight: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+ .image-profile{
+    width: 150px;
+    border:5px solid rgb(15, 15, 15) ;
+    box-shadow: 5px 5px 5px;
+    border-radius: 15%;
+    
+}
+.subtitulo{
+    color:rgb(12, 12, 12);
+    font-size: 20;
+}
+.subsubtitulo{
+    color: rgb(68, 65, 65);
+    font-size: 18;
+}
+header{
+    background: linear-gradient(to top , rgb(175, 241, 20), rgb(244, 248, 7));
+    border: 5px rgb(5, 5, 5);
+    display: block;
+    flex-direction: column;
+    padding: auto;
+}
+ body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to top , rgb(106, 240, 3), rgb(244, 248, 7));
+    text-align: center;
+    padding: auto;
+     
+}
+
+.habilidades{
+    background-color: seagreen;
+}
+ #skills{
+     font-size: 18;
+     text-align: center;
+
+ }
+.piedepag{
+    font-size: 10;
+
+}
+#general {
+    margin: auto;
+    margin-top: 25px;
+    display: block;
+    text-align: center;
+    background-color: rgb(197, 237, 112);
+    padding: auto;
+}
+ul {display: inline-block; text-align: left;}
